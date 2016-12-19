@@ -3,4 +3,7 @@
 <sitemap>
   <loc>http://education.launchcode.org/web-fundamentals/sitemap.txt</loc>
 </sitemap>
+<sitemap>
+  <loc>http://education.launchcode.org/skills-back-end-java/sitemap.txt</loc>
+</sitemap>
 </sitemapindex>
