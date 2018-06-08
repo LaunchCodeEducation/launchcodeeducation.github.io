@@ -39,15 +39,15 @@ a .card, .card {
 }
 
 .card:hover {
-     border-bottom: solid 5px #5C93CE;
+     border-bottom: solid 5px #344a5f;
 }
 
 .card:hover .card-inline-title {
-    color: #5C93CE;
+    color: #344a5f;
 }
 
 .card-header {
-    background-color: #5C93CE;
+    background-color: #344a5f;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -62,9 +62,9 @@ a .card, .card {
 }
 
 .card-footer {
-    color: $gray;
+    color: #344a5f;
     text-transform: uppercase;
-    font-family: $font-family-sans-serif;
+    font-family: "Adagio";
     position: absolute;
     bottom: 0;
     width: 100%;
